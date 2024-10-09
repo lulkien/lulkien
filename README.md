@@ -1,4 +1,4 @@
-# Hi there 👋. It's me, Kien H. Luu
+# Hi there 👋 It's me, Kien H. Luu
 
 I'm an Arch user and a Rust lover.
 
